@@ -23,7 +23,7 @@ A primeira sprint contemplará os seguintes incrementos previamente propostos:
 
 1º - A versão mais atual do web app (aplicação frontend) pode ser encontrada [clicando aqui.](https://github.com/OneCar-API/onecar-web/tree/develop)
 
-O tutorial de como executá-la está na [branch master](https://github.com/OneCar-API/onecar-web/)
+O tutorial de como executá-lo está na [branch master](https://github.com/OneCar-API/onecar-web/)
 
 2º - O nosso webservice é acesso [clicando aqui.](https://github.com/OneCar-API/onecar-webservice/tree/develop)
 
