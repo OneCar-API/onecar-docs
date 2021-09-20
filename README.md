@@ -1,5 +1,7 @@
 # Documentação OneCar
 
+![Sem título-1_Prancheta 1](https://user-images.githubusercontent.com/56441318/133950991-44ac40d3-c041-4c7a-b35b-bbf84abc9c37.png)
+
 O OneCar foi desenvolvido para melhoria contínua de um produto já existente de nosso cliente.  O projeto está sendo desenvolvido à partir de uma parceria com a [Fatec São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/). 
 
 ## Disciplinas Integradas
