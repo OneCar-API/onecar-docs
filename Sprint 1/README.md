@@ -17,7 +17,7 @@ A primeira sprint contemplará os seguintes incrementos previamente propostos:
 - Listagem de anúncios importados;
 - Exibição de um anúncio selecionado.
 
-A documentação da API pode ser acessada no endpoint - "/docs" - ou através do arquivo [Swagger](https://github.com/OneCar-API/onecar-webservice/blob/develop/src/swagger.json) no editor/visualizador de sua preferência.
+A documentação da API pode ser acessada no endpoint - "/docs", método GET, do projeto do backend, ou através do arquivo [Swagger](https://github.com/OneCar-API/onecar-webservice/blob/develop/src/swagger.json) no editor/visualizador de sua preferência.
 
 
 ## Acesso aos incrementos contemplados na sprint 1:
