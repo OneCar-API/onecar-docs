@@ -77,6 +77,26 @@ Trata-se de uma aplicação Web e Mobile para anúncios de vendas de carros. É 
 
 - A quantidade de visualizações do anúncio, é extremamente confidencial, os usuários não podem visualizar dados de outros anúncios.
 
+
+### Backlog do produto resumido:
+
+- Importação de anúncios e usuários (done);
+- Exibição dos anúncios disponíveis em lista (done);
+- Exibição detalhada de um anúncio selecionado (done);
+- Tela de cadastro de usuário individual (bônus) (done);
+- Sessão de usuários (done);
+- Comunicação em tempo real comprador/vendedor (todo);
+- Envio de imagens para os anúncios (todo);
+- Dinâmica de troca de senha no primeiro login (todo);
+- Painel de administração de anúncios (todo);
+- Armazenamento e tráfego adequado de dados (LGPD) (todo);
+- Pesquisa avançada por anúncios (todo);
+- Exclusão de entidades (todo);
+- Documentações (todo);
+- Relatórios (todo).
+
+
+
 ### Tecnologias utilizadas
 
 - NodeJS
@@ -85,3 +105,4 @@ Trata-se de uma aplicação Web e Mobile para anúncios de vendas de carros. É 
 - MongoDB
 - ReactJS
 - Styled Components
+
