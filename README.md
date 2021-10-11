@@ -80,27 +80,19 @@ Trata-se de uma aplicação Web e Mobile para anúncios de vendas de carros. É 
 
 ### Backlog do produto resumido:
 
-- Importação de anúncios e usuários (done);
-- Exibição dos anúncios disponíveis em lista (done);
-- Exibição detalhada de um anúncio selecionado (done);
-- Tela de cadastro de usuário individual (bônus) (done);
-- Sessão de usuários (done);
-- Comunicação em tempo real comprador/vendedor (todo);
-- Envio de imagens para os anúncios (todo);
-- Dinâmica de troca de senha no primeiro login (todo);
-- Painel de administração de anúncios (todo);
-- Armazenamento e tráfego adequado de dados (LGPD) (todo);
-- Pesquisa avançada por anúncios (todo);
-- Exclusão de entidades (todo);
-- Documentações (todo);
-- Relatórios (todo).
+![image](https://user-images.githubusercontent.com/45850297/136728991-0ce8a69f-f69a-4833-ad45-f59a2e2116b9.png)
 
+### Acessando as entregas:
+
+- [Sprint 1](https://github.com/OneCar-API/onecar-docs/tree/master/Sprint%201)
+- [Sprint 2](https://github.com/OneCar-API/onecar-docs/tree/master/Sprint%202)
 
 
 ### Tecnologias utilizadas
 
 - NodeJS
 - Typescript
+- Express
 - PostgreSQL
 - MongoDB
 - ReactJS
