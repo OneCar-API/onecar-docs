@@ -6,6 +6,7 @@ A segunda sprint contemplará os seguintes incrementos, priorizados a partir de 
 - Chat para comunicação comprador/vendedor;
 - Filtro na busca de anúncios (web);
 - Criptografia no armazenamento de dados sensíveis;
+- Remoção dos anúncios;
 - App mobile permitindo a visualização, listagem e busca por anúncios;
 
 A documentação da API pode ser acessada no endpoint - "/docs", método GET, do projeto do backend, ou através do arquivo [Swagger](https://github.com/OneCar-API/onecar-webservice/blob/develop/src/swagger.json) no editor/visualizador de sua preferência.
