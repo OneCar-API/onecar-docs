@@ -86,7 +86,7 @@ Trata-se de uma aplicação Web e Mobile para anúncios de vendas de carros. É 
 
 - [Sprint 1](https://github.com/OneCar-API/onecar-docs/tree/master/Sprint%201)
 - [Sprint 2](https://github.com/OneCar-API/onecar-docs/tree/master/Sprint%202)
-
+- [Sprint 3](https://github.com/OneCar-API/onecar-docs/tree/master/Sprint%203)
 
 ### Tecnologias utilizadas
 
