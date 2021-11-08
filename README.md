@@ -23,8 +23,9 @@ O OneCar foi desenvolvido para melhoria contínua de um produto já existente de
 - José Danrley - PO - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-danrley-069827191)
 - Raquel Ribeiro - Scrum Master - [LinkedIn](https://www.linkedin.com/in/raquel-rodrigues-ribeiro-a9537818b)
 - Cristiane Rodrigues - DEV Team - [LinkedIn](https://www.linkedin.com/in/cristiane-rodrigues-20b3b61b2)
+- Fabrício Cursino - DEV Team - [LinkedIn](https://www.linkedin.com/in/fcursino)
 - Luis Guilherme - DEV Team - [LinkedIn](https://www.linkedin.com/mwlite/in/luis-guilherme-a17b58185)
-- Ygor Melo - DEV Team - [LinkedIn](https://www.linkedin.com/in/ygor-melo-18a172214)
+- Washington Hentique - DEV Team - [LinkedIn](https://www.linkedin.com/in/justhenrique/)
 
 
 ## Objetivo
