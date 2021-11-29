@@ -1,6 +1,6 @@
 # Sprint 3 - Descrição da entrega
 
-A segunda sprint contemplará os seguintes incrementos, priorizados a partir de consulta ao cliente:
+A terceira sprint contemplará os seguintes incrementos, priorizados a partir de consulta ao cliente:
 
 - Upload de fotos via interface gráfica web;
 - Chat para comunicação comprador/vendedor;
